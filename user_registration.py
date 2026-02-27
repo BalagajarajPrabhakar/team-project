@@ -1,0 +1,15 @@
+print("===== User Registration Form =====")
+
+name = input("Enter your Name: ")
+email = input("Enter your Email: ")
+username = input("Enter your Username: ")
+password = input("Enter your Password: ")
+phone = input("Enter your Phone Number: ")
+
+print("\n===== Registration Successful! =====")
+print("Registered Details:")
+print("Name:", name)
+print("Email:", email)
+print("Username:", username)
+print("Password:", password)
+print("Phone Number:", phone)
